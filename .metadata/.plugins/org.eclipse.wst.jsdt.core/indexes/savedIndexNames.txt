@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+D:\Qwadwave Assignment\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+49517958.index
+2910531309.index
+2007075071.index
+2596220369.index
+3207580671.index
+2649271138.index
